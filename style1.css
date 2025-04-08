@@ -207,6 +207,20 @@ img{
   align-items: center;
 }
 
+.nav_logo{
+  color: var(--title-color);
+  font-weight: var(--font-medium);
+  font-size: var(--h2-font-size);
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+
+}
+
+.nav_logo:hover{
+  color: var(--first-color);
+}
+
 .nav_menu{
   position: fixed;
   bottom: 1rem;
