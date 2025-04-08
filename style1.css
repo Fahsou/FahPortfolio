@@ -729,6 +729,11 @@ color: #00aaff;
   
 }
 
+.NaturalTravel{
+  width: 100%;
+ /*background-image: url('NaturalTravel/NaturalTravel\ 1.png');*/
+}
+
 .portfolio_wrapper{
   overflow: hidden;
   width: 100%;
