@@ -1,4 +1,4 @@
-#Hello this is my portfolio
+Hello this is my portfolio
 
 This portfolio show my skills
 
@@ -7,7 +7,7 @@ HTML
 CSS 
 Javascript
 
-#About me
+About me
 
 I'm a web developer passionate with modern technology and engaged in UX/UI experience
  
