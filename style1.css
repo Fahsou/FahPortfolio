@@ -1029,6 +1029,9 @@ content: "";
   display: flex;
 }
 
+.contact_mail{
+  font-size: var(--h3-font-size) ;
+
 .contact_icon{
   font-size: 2rem;
   text-decoration: none;
