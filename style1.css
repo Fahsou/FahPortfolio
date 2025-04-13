@@ -1085,6 +1085,25 @@ content: "";
   color: var(--text-color);
   z-index: 2;
 }
+.contact__form input,
+.contact__form textarea {
+  border: 2px solid #007bff;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+.contact__form input:focus,
+.contact__form textarea:focus {
+  border-color: #0056b3;
+}
+
+.contact__form input:hover,
+.contact__form textarea:hover {
+  border-color: #3399ff;
+}
 
 
 .contact_form-area{
